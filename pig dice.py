@@ -1,7 +1,7 @@
 # imports for the system function calling and random function generation
 import sys
 import random
-# function for getting the number value from the user
+# function for getting the number value from the users
 def input_number(prompt='enter the number: ', small=0, large=None):
     """reads only the positive number within the range."""
 # while loop for checking the given condition inside the block
